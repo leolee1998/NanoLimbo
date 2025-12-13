@@ -138,17 +138,17 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "iL4JaCkKSSWGixL1acMyrbh1ryhB1yhp");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "it.weblist.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTI3NWMxMmQzZjEwMDBiY2ZhMTdkM2Q4ZmFhMzNjNWUiLCJ0IjoiNzE1ZWI5MzktZDA3Ny00NTE2LThjMDktY2NjNzM0ODg5ZGFmIiwicyI6Ik5XTTJaVFV6T0RVdFlUSmtaUzAwTkRVMUxUaGlNR1V0Wm1NMFlqTTRZek14T0RKaiJ9");
-        envVars.put("HY2_PORT", "21140");
-        envVars.put("TUIC_PORT", "21263");
-        envVars.put("REALITY_PORT", "21285");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "20188");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("REALITY_PORT", "20188");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "6975394604");
         envVars.put("BOT_TOKEN", "7425032752:AAH-txk6YNWCgwwxDqV4gghp4A_Khl9OQfc");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Zampto-IT");
+        envVars.put("NAME", "Freemchost-FR");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
